@@ -1,0 +1,4 @@
+export const FETCH_STUFF = 'FETCH_STUFF'
+export const FETCH_USERS = 'FETCH_USERS'
+export const VALIDATE_LOGIN = 'VALIDATE_LOGIN'
+export const FETCH_POSTS = 'FETCH_POSTS'
